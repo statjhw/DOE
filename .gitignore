@@ -180,6 +180,11 @@ logs/
 *.pickle
 *.pkl
 
+# Exception: Include sample results for documentation
+!rcbd_results/
+!rcbd_results/*.csv
+!rcbd_results/*.json
+
 # Model files
 *.model
 *.bin

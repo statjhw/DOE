@@ -1,0 +1,97 @@
+{
+  "consistency_statistics": {
+    "('인성', '중립적')": {
+      "category": "인성",
+      "framing_level": "중립적",
+      "n_samples": 42,
+      "bert_multilingual_mean": 0.8185646658851985,
+      "bert_multilingual_std": 0.01957763227124245,
+      "bert_multilingual_min": 0.7848681271076202,
+      "bert_multilingual_max": 0.8526501655578613
+    },
+    "('인성', '정서적')": {
+      "category": "인성",
+      "framing_level": "정서적",
+      "n_samples": 42,
+      "bert_multilingual_mean": 0.8111692793312528,
+      "bert_multilingual_std": 0.020844268150507588,
+      "bert_multilingual_min": 0.7713897943496704,
+      "bert_multilingual_max": 0.8465750753879547
+    },
+    "('인성', '자극적')": {
+      "category": "인성",
+      "framing_level": "자극적",
+      "n_samples": 42,
+      "bert_multilingual_mean": 0.7956592591035934,
+      "bert_multilingual_std": 0.021285255383630262,
+      "bert_multilingual_min": 0.755562937259674,
+      "bert_multilingual_max": 0.8365527927875519
+    },
+    "('창의성', '중립적')": {
+      "category": "창의성",
+      "framing_level": "중립적",
+      "n_samples": 43,
+      "bert_multilingual_mean": 0.8315192074276682,
+      "bert_multilingual_std": 0.013086934597777706,
+      "bert_multilingual_min": 0.8054471671581268,
+      "bert_multilingual_max": 0.8620028376579285
+    },
+    "('창의성', '정서적')": {
+      "category": "창의성",
+      "framing_level": "정서적",
+      "n_samples": 43,
+      "bert_multilingual_mean": 0.8269392504248508,
+      "bert_multilingual_std": 0.014863196444194034,
+      "bert_multilingual_min": 0.7666560709476471,
+      "bert_multilingual_max": 0.8543765425682068
+    },
+    "('창의성', '자극적')": {
+      "category": "창의성",
+      "framing_level": "자극적",
+      "n_samples": 43,
+      "bert_multilingual_mean": 0.8146467143713041,
+      "bert_multilingual_std": 0.025780100087967245,
+      "bert_multilingual_min": 0.7566681504249573,
+      "bert_multilingual_max": 0.8577999711036682
+    },
+    "('논리적추론', '중립적')": {
+      "category": "논리적추론",
+      "framing_level": "중립적",
+      "n_samples": 48,
+      "bert_multilingual_mean": 0.835052078962326,
+      "bert_multilingual_std": 0.018154601035189115,
+      "bert_multilingual_min": 0.7903851449489594,
+      "bert_multilingual_max": 0.8752316474914551
+    },
+    "('논리적추론', '정서적')": {
+      "category": "논리적추론",
+      "framing_level": "정서적",
+      "n_samples": 48,
+      "bert_multilingual_mean": 0.8248751327395439,
+      "bert_multilingual_std": 0.015470106818119273,
+      "bert_multilingual_min": 0.7639424741268158,
+      "bert_multilingual_max": 0.8506199419498444
+    },
+    "('논리적추론', '자극적')": {
+      "category": "논리적추론",
+      "framing_level": "자극적",
+      "n_samples": 48,
+      "bert_multilingual_mean": 0.8114047107597191,
+      "bert_multilingual_std": 0.019590917965245643,
+      "bert_multilingual_min": 0.7673417687416076,
+      "bert_multilingual_max": 0.8495264530181885
+    }
+  },
+  "rcbd_summary": {
+    "bert_multilingual_framing_pvalue": 3.46908510497326e-17,
+    "bert_multilingual_category_pvalue": 2.86190736226828e-12,
+    "bert_multilingual_framing_significant": true,
+    "bert_multilingual_category_significant": true,
+    "bert_multilingual_framing_eta_squared": 0.1563767444244936,
+    "bert_multilingual_category_eta_squared": 0.10647832001374068
+  },
+  "experiment_summary": {
+    "total_conditions": 9,
+    "avg_bert_multilingual_similarity": 0.8191327550506831
+  }
+}
