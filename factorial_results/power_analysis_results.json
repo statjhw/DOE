@@ -1,0 +1,206 @@
+{
+  "effect_sizes": {
+    "prompt_language": {
+      "cohens_d": 0.2581214596940647,
+      "mean_diff": 0.007706210845046524,
+      "group1_mean": 0.8033315365513166,
+      "group2_mean": 0.7956253257062701,
+      "pooled_std": 0.02985497933484576,
+      "interpretation": "작음"
+    },
+    "model": {
+      "cohens_d": 1.4295263361061354,
+      "mean_diff": 0.03488985945781076,
+      "group1_mean": 0.782033501399888,
+      "group2_mean": 0.8169233608576988,
+      "pooled_std": 0.02440658739652653,
+      "interpretation": "큰 효과"
+    },
+    "role_assignment": {
+      "cohens_d": 0.19133154674366082,
+      "mean_diff": 0.005733845962418549,
+      "group1_mean": 0.8023453541100025,
+      "group2_mean": 0.796611508147584,
+      "pooled_std": 0.029968115870095124,
+      "interpretation": "매우 작음"
+    },
+    "context_provision": {
+      "cohens_d": 0.003357997024133216,
+      "mean_diff": 0.00010110189517320567,
+      "group1_mean": 0.7995289820763799,
+      "group2_mean": 0.7994278801812067,
+      "pooled_std": 0.030107797727814432,
+      "interpretation": "매우 작음"
+    },
+    "explicitness": {
+      "cohens_d": 0.6686471261275085,
+      "mean_diff": 0.01907237122456218,
+      "group1_mean": 0.7899422455165123,
+      "group2_mean": 0.8090146167410744,
+      "pooled_std": 0.02852382142883113,
+      "interpretation": "중간"
+    },
+    "category": {
+      "effect_size": 0.43054795948578156,
+      "interpretation": "작음",
+      "means": {
+        "논리적추론": 0.8077564264337223,
+        "인성": 0.7958169039338827,
+        "창의성": 0.794861963018775
+      }
+    }
+  },
+  "power_results": {
+    "prompt_language": {
+      "0.8": {
+        "n_per_group": 117.80384070266275,
+        "total_n": 235.6076814053255,
+        "total_conditions": 3769.722902485208,
+        "total_with_categories": 11309.168707455625
+      },
+      "0.9": {
+        "n_per_group": 157.70591911459428,
+        "total_n": 315.41183822918856,
+        "total_conditions": 5046.589411667017,
+        "total_with_categories": 15139.768235001051
+      },
+      "0.95": {
+        "n_per_group": 195.03761046887428,
+        "total_n": 390.07522093774855,
+        "total_conditions": 6241.203535003977,
+        "total_with_categories": 18723.61060501193
+      }
+    },
+    "model": {
+      "0.8": {
+        "n_per_group": 3.8408146817025406,
+        "total_n": 7.681629363405081,
+        "total_conditions": 122.9060698144813,
+        "total_with_categories": 368.7182094434439
+      },
+      "0.9": {
+        "n_per_group": 5.1417611337101,
+        "total_n": 10.2835222674202,
+        "total_conditions": 164.5363562787232,
+        "total_with_categories": 493.60906883616957
+      },
+      "0.95": {
+        "n_per_group": 6.358904033220551,
+        "total_n": 12.717808066441101,
+        "total_conditions": 203.48492906305762,
+        "total_with_categories": 610.4547871891729
+      }
+    },
+    "role_assignment": {
+      "0.8": {
+        "n_per_group": 214.40480289585543,
+        "total_n": 428.80960579171085,
+        "total_conditions": 6860.953692667374,
+        "total_with_categories": 20582.86107800212
+      },
+      "0.9": {
+        "n_per_group": 287.0271996362002,
+        "total_n": 574.0543992724004,
+        "total_conditions": 9184.870388358406,
+        "total_with_categories": 27554.611165075217
+      },
+      "0.95": {
+        "n_per_group": 354.9714523773792,
+        "total_n": 709.9429047547584,
+        "total_conditions": 11359.086476076134,
+        "total_with_categories": 34077.259428228404
+      }
+    },
+    "context_provision": {
+      "0.8": {
+        "n_per_group": 696060.6147405808,
+        "total_n": 1392121.2294811616,
+        "total_conditions": 22273939.671698585,
+        "total_with_categories": 66821819.015095755
+      },
+      "0.9": {
+        "n_per_group": 931827.6751621356,
+        "total_n": 1863655.3503242712,
+        "total_conditions": 29818485.60518834,
+        "total_with_categories": 89455456.81556502
+      },
+      "0.95": {
+        "n_per_group": 1152407.2409757178,
+        "total_n": 2304814.4819514356,
+        "total_conditions": 36877031.71122297,
+        "total_with_categories": 110631095.1336689
+      }
+    },
+    "explicitness": {
+      "0.8": {
+        "n_per_group": 17.555520485014092,
+        "total_n": 35.111040970028185,
+        "total_conditions": 561.776655520451,
+        "total_with_categories": 1685.3299665613529
+      },
+      "0.9": {
+        "n_per_group": 23.50186103534786,
+        "total_n": 47.00372207069572,
+        "total_conditions": 752.0595531311316,
+        "total_with_categories": 2256.178659393395
+      },
+      "0.95": {
+        "n_per_group": 29.065153950087883,
+        "total_n": 58.130307900175765,
+        "total_conditions": 930.0849264028122,
+        "total_with_categories": 2790.254779208437
+      }
+    }
+  },
+  "cost_results": {
+    "prompt_language": {
+      "0.8": 113.09168707455625,
+      "0.9": 151.3976823500105,
+      "0.95": 187.2361060501193
+    },
+    "model": {
+      "0.8": 3.6871820944344393,
+      "0.9": 4.936090688361696,
+      "0.95": 6.104547871891729
+    },
+    "role_assignment": {
+      "0.8": 205.8286107800212,
+      "0.9": 275.54611165075215,
+      "0.95": 340.77259428228405
+    },
+    "context_provision": {
+      "0.8": 668218.1901509576,
+      "0.9": 894554.5681556502,
+      "0.95": 1106310.951336689
+    },
+    "explicitness": {
+      "0.8": 16.85329966561353,
+      "0.9": 22.56178659393395,
+      "0.95": 27.90254779208437
+    }
+  },
+  "current_powers": {
+    "prompt_language": 0.41763962382309766,
+    "model": NaN,
+    "role_assignment": 0.254740408414316,
+    "context_provision": 0.05005951584042942,
+    "explicitness": 0.995003070692233
+  },
+  "recommendations": {
+    "large_effects": [
+      "model"
+    ],
+    "medium_effects": [
+      "explicitness"
+    ],
+    "small_effects": [
+      "prompt_language"
+    ],
+    "insufficient_power": [
+      "prompt_language",
+      "role_assignment",
+      "context_provision"
+    ],
+    "recommendation": "full"
+  }
+}

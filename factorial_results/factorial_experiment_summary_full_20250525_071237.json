@@ -1,0 +1,46 @@
+{
+  "consistency_statistics": {
+    "mean_similarity": 0.7966897135689146,
+    "std_similarity": 0.027461260604702067,
+    "min_similarity": 0.72987180352211,
+    "max_similarity": 0.920660525560379,
+    "count": 336
+  },
+  "design_summary": {
+    "total_conditions": 336,
+    "factors": [
+      "prompt_language",
+      "model",
+      "role_assignment",
+      "explicitness"
+    ],
+    "categories": [
+      "인성",
+      "창의성",
+      "논리적추론"
+    ],
+    "factor_combinations": 16,
+    "questions_per_category": {
+      "논리적추론": 112,
+      "인성": 112,
+      "창의성": 112
+    }
+  },
+  "config": {
+    "n_responses": 5,
+    "temperature": 0.7,
+    "max_tokens": 500,
+    "retry_attempts": 3,
+    "delay_between_requests": 1,
+    "mode_name": "전체 설계 (최적화)",
+    "max_conditions": 336,
+    "factors_to_test": [
+      "all"
+    ],
+    "questions_per_category": "all",
+    "estimated_cost_usd": 2.24,
+    "mode": "full"
+  },
+  "timestamp": "20250525_071237",
+  "mode": "full"
+}

@@ -1,0 +1,4034 @@
+[
+  {
+    "condition_id": 1,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가요? 윤리학과 도덕철학을 전공한 전문가로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 2,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가에 대해, 윤리학과 도덕철학을 전공한 전문가로서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 3,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인지에 대해, 윤리학과 도덕철학을 전공한 전문가로서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 4,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가요? 당신은 윤리학과 도덕철학을 전공한 전문가로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 5,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인지에 대해, 윤리학과 도덕철학을 전공한 전문가로서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 6,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가? 당신은 윤리학과 도덕철학을 전공한 전문가로서, 이 질문에 대해 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 7,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인지에 대해 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 8,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 9,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "창의성과 혁신을 연구하는 전문가로서, 창의적 문제해결을 위해 어떤 사고방식이 필요한지에 대해 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 10,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 11,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가요? 당신은 창의성과 혁신을 연구하는 전문가로서, 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 12,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가요? 당신은 창의성과 혁신을 연구하는 전문가로서, 이 질문에 대해 구체적이고 명확한 예시를 들어 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 13,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 창의성을 저해하는 요소들을 극복하는 방법은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 14,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가요? 당신은 창의성과 혁신을 연구하는 전문가로서, 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 15,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 16,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 17,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자로서, 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 18,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 19,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 20,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "가설을 설정하고 검증하는 체계적인 방법은 무엇인지에 대해 논리학과 비판적 사고를 전문으로 하는 학자의 관점에서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 21,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인지, 논리학과 비판적 사고를 전문으로 하는 학자의 역할을 바탕으로 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 22,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "어려움에 처한 친구를 도와야 하는 이유는 무엇인지에 대해 윤리학과 도덕철학의 관점에서 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 23,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인지에 대해 깊이 있는 통찰을 제공해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 24,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 25,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인지, 윤리학과 도덕철학을 전공한 전문가로서의 관점에서 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 26,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가로서, 자신의 실수를 인정하고 책임지는 것의 중요성에 대해 설명해 주시기 바랍니다. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 27,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 타인에 대한 배려와 공감이 중요한 이유는 무엇인지에 대해 깊이 있는 분석과 설명을 해주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 28,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 도덕적 용기를 발휘해야 하는 상황과 그 방법에 대해 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 29,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇이라고 생각하십니까? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 30,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "창의성과 혁신을 연구하는 전문가로서, 창의적 문제해결을 위해 어떤 사고방식이 필요한지에 대해 논의해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 31,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇이라고 생각하십니까? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 32,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인지에 대해 깊이 있는 통찰을 제공해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 33,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인지, 창의성과 혁신을 연구하는 전문가로서의 시각에서 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 34,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 창의성을 저해하는 요소들을 극복하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 35,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가요? 당신은 창의성과 혁신을 연구하는 전문가로서, 이 질문에 대한 통찰력 있는 답변을 제공해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 36,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인지, 논리학과 비판적 사고를 전문으로 하는 학자의 관점에서 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 37,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인지 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 38,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인지에 대해 논의해 주세요. 당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 39,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인지, 논리학과 비판적 사고를 전문으로 하는 학자의 관점에서 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 40,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인지 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 41,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 가설을 설정하고 검증하는 체계적인 방법은 무엇인지 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 42,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 43,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 44,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 45,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 46,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가요? 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 47,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 48,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 49,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인지에 대해 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 50,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 51,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "창의적 문제해결을 위해 어떤 사고방식이 필요한가에 대해 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 52,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 53,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 54,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 55,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가요? 구체적이고 명확한 예시를 들어 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 56,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가요? 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 57,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 58,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 59,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 60,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가요? 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 61,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가요? 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 62,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 63,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 64,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 65,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 66,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 67,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 68,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인지에 대해 논의해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 69,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 70,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가에 대해 구체적인 사례를 들어 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 71,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 72,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "창의적 문제해결을 위해 어떤 사고방식이 필요한지에 대해 논의해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 73,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 74,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 75,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 76,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 77,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 78,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 79,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인지 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 80,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 81,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 82,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 83,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 84,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 85,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가요? 윤리학과 도덕철학을 전공한 전문가로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 86,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가요? 윤리학과 도덕철학을 전공한 전문가로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 87,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가요? 당신은 윤리학과 도덕철학을 전공한 전문가로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 88,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가요? 당신은 윤리학과 도덕철학을 전공한 전문가로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 89,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 90,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가요? 윤리학과 도덕철학을 전공한 전문가로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 91,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인지에 대해 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 92,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 93,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 창의적 문제해결을 위해 어떤 사고방식이 필요한지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 94,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인지에 대해, 창의성과 혁신을 연구하는 전문가로서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 95,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인지, 창의성과 혁신을 연구하는 전문가로서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 96,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인지에 대해, 창의성과 혁신을 연구하는 전문가로서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 97,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 창의성을 저해하는 요소들을 극복하는 방법은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 98,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가요? 당신은 창의성과 혁신을 연구하는 전문가로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 99,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인지, 논리학과 비판적 사고를 전문으로 하는 학자의 역할로서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 100,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 101,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 102,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자로서, 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 103,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 104,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "가설을 설정하고 검증하는 체계적인 방법은 무엇인지에 대해, 논리학과 비판적 사고를 전문으로 하는 학자의 역할로서 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 105,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자로서, 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 106,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가로서, 어려움에 처한 친구를 도와야 하는 이유는 무엇인지에 대해 깊이 있는 분석과 논의를 해주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 107,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가요? 윤리학과 도덕철학을 전공한 전문가로서, 이 질문에 대한 깊이 있는 통찰과 구체적인 실천 방안을 제시해 주시기 바랍니다. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 108,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇이라고 생각하십니까? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 109,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가요? 윤리학과 도덕철학을 전공한 전문가로서, 갈등 해결에 있어 중요한 원칙이나 접근 방식을 제시해 주시기 바랍니다. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 110,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가로서, 자신의 실수를 인정하고 책임지는 것의 중요성에 대해 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 111,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 타인에 대한 배려와 공감이 중요한 이유는 무엇인지 깊이 있게 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 112,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 윤리학과 도덕철학을 전공한 전문가입니다. 도덕적 용기를 발휘해야 하는 상황과 그 방법에 대해 구체적으로 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 113,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인지에 대해 깊이 있는 통찰을 제공해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 114,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 창의적 문제해결을 위해 어떤 사고방식이 필요한지에 대해 깊이 있는 통찰을 제공해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 115,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇이라고 생각하십니까? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 116,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인지, 창의성과 혁신을 연구하는 전문가로서의 관점에서 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 117,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가요? 당신은 창의성과 혁신을 연구하는 전문가로서, 이 질문에 대한 통찰력을 제공해 주시기 바랍니다. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 118,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 창의성과 혁신을 연구하는 전문가입니다. 창의성을 저해하는 요소들을 극복하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 119,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가요? 당신은 창의성과 혁신을 연구하는 전문가로서, 다양한 팀원들과의 협업을 통해 아이디어를 어떻게 효과적으로 발전시킬 수 있는지에 대한 통찰을 공유해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 120,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가요? 당신은 논리학과 비판적 사고를 전문으로 하는 학자로서, 이 질문에 대한 깊이 있는 통찰을 제공해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 121,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인지 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 122,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인지에 대해 논의해 주세요. 당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 123,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인지, 논리학과 비판적 사고를 전문으로 하는 학자의 관점에서 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 124,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "논리학과 비판적 사고를 전문으로 하는 학자로서, 논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인지에 대해 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 125,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 가설을 설정하고 검증하는 체계적인 방법은 무엇인지 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 126,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "당신은 논리학과 비판적 사고를 전문으로 하는 학자입니다. 비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인지 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 127,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가요? 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 128,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 129,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가요? 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 130,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 131,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가요? 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 132,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 133,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 134,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 135,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "창의적 문제해결을 위해 어떤 사고방식이 필요한가? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 136,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인지 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 137,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 138,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 139,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 140,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가요? 구체적이고 명확한 예시를 들어 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 141,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 142,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 143,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 144,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 145,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가요? 구체적이고 명확한 예시를 통해 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 146,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 147,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가요? 구체적이고 명확한 예시와 함께 자세히 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 148,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 149,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 150,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 151,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 152,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 153,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 154,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가에 대해 구체적인 예시를 들어 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 155,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 156,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "창의적 문제해결을 위해 어떤 사고방식이 필요한지에 대해 논의해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 157,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 158,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 159,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 160,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 161,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 162,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 163,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인지 설명해 주세요. 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 164,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 165,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 166,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 167,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 168,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "korean",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가요? 한국어로 답변해 주세요."
+  },
+  {
+    "condition_id": 169,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the reasons for helping a friend in difficulty. Include specific and clear examples to illustrate your points, considering various ethical frameworks and the moral implications of such actions. Please respond in Korean."
+  },
+  {
+    "condition_id": 170,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of what individuals should do to create a just society. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 171,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, could you elaborate on the criteria for making the right choice in ethical dilemma situations? Please provide a detailed explanation, including specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 172,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the various ways to achieve reconciliation in conflict situations with others. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 173,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the importance of acknowledging and taking responsibility for one's mistakes. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 174,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of why consideration and empathy for others are important. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 175,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the situations where moral courage should be exercised and how to do it. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 176,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, what is the most effective way to come up with new ideas? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 177,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, please provide a detailed explanation of the kind of mindset needed for creative problem solving. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 178,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, could you provide a detailed explanation of the important factors in developing innovative solutions? Please include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 179,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What are the ways to think beyond existing conventions? Please provide a detailed explanation, including specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 180,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, could you elaborate on the ways to develop the ability to look at problems from various perspectives? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 181,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, could you elaborate on the various ways to overcome factors that hinder creativity? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 182,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, could you elaborate on the various ways to develop creative ideas through collaboration? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 183,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please provide a detailed explanation of the methods for systematically analyzing complex problems. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 184,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please provide a detailed explanation of the thought processes necessary to reach logical conclusions. Include specific and clear examples to illustrate your points effectively. Please respond in Korean."
+  },
+  {
+    "condition_id": 185,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please provide a detailed explanation of the methods for presenting valid arguments based on evidence and logic. Include specific and clear examples to illustrate your points effectively. Please respond in Korean."
+  },
+  {
+    "condition_id": 186,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please explore the question: What are the ways to make correct judgments by synthesizing various information? In your response, provide a detailed explanation that includes specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 187,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please provide a detailed explanation of the ways to avoid logical errors and engage in rational thinking. Include specific and clear examples to illustrate your points effectively. Please respond in Korean."
+  },
+  {
+    "condition_id": 188,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please provide a detailed explanation of the systematic methods for setting up and verifying hypotheses. Include specific and clear examples to illustrate your points effectively. Please respond in Korean."
+  },
+  {
+    "condition_id": 189,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please provide a detailed explanation of the methods for evaluating the reliability of information through critical thinking. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 190,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please explore the various reasons for helping a friend in difficulty. Consider the moral obligations we have towards our friends, the emotional and psychological benefits of providing support, and the broader implications of friendship in ethical theory. What philosophical principles can guide our actions in such situations? Please respond in Korean."
+  },
+  {
+    "condition_id": 191,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, what specific actions should individuals take to contribute to the creation of a just society? Please respond in Korean."
+  },
+  {
+    "condition_id": 192,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, could you elaborate on the criteria for making the right choice in ethical dilemma situations? Please respond in Korean."
+  },
+  {
+    "condition_id": 193,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please explore the various ways to achieve reconciliation in conflict situations with others. What principles and strategies can be applied to foster understanding and resolution, and how can ethical considerations guide these processes? Please respond in Korean."
+  },
+  {
+    "condition_id": 194,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, could you elaborate on the importance of acknowledging and taking responsibility for one's mistakes? How does this practice contribute to personal growth, ethical behavior, and the overall well-being of individuals and society? Please respond in Korean."
+  },
+  {
+    "condition_id": 195,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please explore the question: Why are consideration and empathy for others important in our interactions and decision-making processes? Please respond in Korean."
+  },
+  {
+    "condition_id": 196,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, I invite you to explore the concept of moral courage. What are the situations where moral courage should be exercised, and how can individuals effectively demonstrate it in those circumstances? Please respond in Korean."
+  },
+  {
+    "condition_id": 197,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What is the most effective way to come up with new ideas? Please provide insights based on your expertise, including techniques, methodologies, and any relevant examples that illustrate successful idea generation. Please respond in Korean."
+  },
+  {
+    "condition_id": 198,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What kind of mindset is needed for creative problem solving? Please respond in Korean."
+  },
+  {
+    "condition_id": 199,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, what do you consider to be the important factors in developing innovative solutions? Please respond in Korean."
+  },
+  {
+    "condition_id": 200,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What are the ways to think beyond existing conventions? Please respond in Korean."
+  },
+  {
+    "condition_id": 201,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What are the ways to develop the ability to look at problems from various perspectives? Please consider different techniques, methodologies, and practices that can enhance this skill in individuals and teams. Please respond in Korean."
+  },
+  {
+    "condition_id": 202,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What are the ways to overcome factors that hinder creativity? Please respond in Korean."
+  },
+  {
+    "condition_id": 203,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the various ways to develop creative ideas through collaboration. What strategies, techniques, or frameworks can individuals and teams employ to enhance their collaborative efforts and foster innovative thinking? Please respond in Korean."
+  },
+  {
+    "condition_id": 204,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, what are the methods for systematically analyzing complex problems? Please respond in Korean."
+  },
+  {
+    "condition_id": 205,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, I invite you to explore the intricate thought processes that are necessary to reach logical conclusions. What cognitive strategies and analytical skills do you believe are essential in evaluating arguments and forming sound judgments? Please respond in Korean."
+  },
+  {
+    "condition_id": 206,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, what are the methods for presenting valid arguments based on evidence and logic? Please respond in Korean."
+  },
+  {
+    "condition_id": 207,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, what are the ways to make correct judgments by synthesizing various information? Please respond in Korean."
+  },
+  {
+    "condition_id": 208,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, what are the ways to avoid logical errors and engage in rational thinking? Please respond in Korean."
+  },
+  {
+    "condition_id": 209,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, I would like you to explore the systematic methods for setting up and verifying hypotheses. Please provide a detailed explanation of the processes involved, including any relevant frameworks or techniques that are commonly used in academic research. Please respond in Korean."
+  },
+  {
+    "condition_id": 210,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please explore the various methods for evaluating the reliability of information. What strategies and frameworks can be employed to critically assess the credibility of sources and the validity of claims? Please respond in Korean."
+  },
+  {
+    "condition_id": 211,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the reasons for helping a friend in difficulty? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 212,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What should individuals do to create a just society? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 213,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the criteria for making the right choice in ethical dilemma situations? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 214,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to achieve reconciliation in conflict situations with others? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 215,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What is the importance of acknowledging and taking responsibility for one's mistakes? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 216,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "Why are consideration and empathy for others important? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 217,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the situations where moral courage should be exercised, and how can individuals effectively demonstrate it? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 218,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What is the most effective way to come up with new ideas? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 219,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What kind of mindset is needed for creative problem solving? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 220,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the important factors in developing innovative solutions? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 221,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to think beyond existing conventions? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 222,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to develop the ability to look at problems from various perspectives? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 223,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to overcome factors that hinder creativity? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 224,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to develop creative ideas through collaboration? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 225,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the methods for systematically analyzing complex problems? Please provide a detailed explanation with specific and clear examples to illustrate each method. Please respond in Korean."
+  },
+  {
+    "condition_id": 226,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What thought processes are necessary to reach logical conclusions? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 227,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the methods for presenting valid arguments based on evidence and logic? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 228,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to make correct judgments by synthesizing various information? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 229,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to avoid logical errors and engage in rational thinking? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 230,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the systematic methods for setting up and verifying hypotheses? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 231,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the methods for evaluating the reliability of information through critical thinking? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 232,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the reasons for helping a friend in difficulty? Please respond in Korean."
+  },
+  {
+    "condition_id": 233,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What should individuals do to create a just society? Please respond in Korean."
+  },
+  {
+    "condition_id": 234,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the criteria for making the right choice in ethical dilemma situations? Please respond in Korean."
+  },
+  {
+    "condition_id": 235,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to achieve reconciliation in conflict situations with others? Please respond in Korean."
+  },
+  {
+    "condition_id": 236,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What is the importance of acknowledging and taking responsibility for one's mistakes? Please respond in Korean."
+  },
+  {
+    "condition_id": 237,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "Why are consideration and empathy for others important in fostering strong relationships and building a supportive community? Please respond in Korean."
+  },
+  {
+    "condition_id": 238,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the situations where moral courage should be exercised, and how can individuals effectively demonstrate it in those circumstances? Please respond in Korean."
+  },
+  {
+    "condition_id": 239,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What is the most effective way to come up with new ideas? Please respond in Korean."
+  },
+  {
+    "condition_id": 240,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What kind of mindset is needed for creative problem solving? Please respond in Korean."
+  },
+  {
+    "condition_id": 241,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the important factors in developing innovative solutions? Please respond in Korean."
+  },
+  {
+    "condition_id": 242,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to think beyond existing conventions? Please respond in Korean."
+  },
+  {
+    "condition_id": 243,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to develop the ability to look at problems from various perspectives? Please respond in Korean."
+  },
+  {
+    "condition_id": 244,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to overcome factors that hinder creativity? Please respond in Korean."
+  },
+  {
+    "condition_id": 245,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to develop creative ideas through collaboration? Please respond in Korean."
+  },
+  {
+    "condition_id": 246,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the methods for systematically analyzing complex problems? Please respond in Korean."
+  },
+  {
+    "condition_id": 247,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What thought processes are necessary to reach logical conclusions? Please respond in Korean."
+  },
+  {
+    "condition_id": 248,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the methods for presenting valid arguments based on evidence and logic? Please respond in Korean."
+  },
+  {
+    "condition_id": 249,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to make correct judgments by synthesizing various information? Please respond in Korean."
+  },
+  {
+    "condition_id": 250,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to avoid logical errors and engage in rational thinking? Please respond in Korean."
+  },
+  {
+    "condition_id": 251,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the systematic methods for setting up and verifying hypotheses? Please respond in Korean."
+  },
+  {
+    "condition_id": 252,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-3.5-turbo",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the methods for evaluating the reliability of information through critical thinking? Please respond in Korean."
+  },
+  {
+    "condition_id": 253,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the reasons for helping a friend in difficulty. Include specific and clear examples to illustrate your points, discussing the moral obligations we may feel, the impact of empathy, and the potential benefits of supporting others in challenging times. Please respond in Korean."
+  },
+  {
+    "condition_id": 254,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of what individuals should do to create a just society. Include specific and clear examples to illustrate your points effectively. Please respond in Korean."
+  },
+  {
+    "condition_id": 255,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the criteria for making the right choice in ethical dilemma situations. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 256,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the various ways to achieve reconciliation in conflict situations with others. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 257,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the importance of acknowledging and taking responsibility for one's mistakes. Include specific and clear examples to illustrate your points effectively. Please respond in Korean."
+  },
+  {
+    "condition_id": 258,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of why consideration and empathy for others are important. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 259,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please provide a detailed explanation of the situations where moral courage should be exercised. Include specific and clear examples to illustrate your points. What actions can individuals take to demonstrate moral courage in these situations? Please respond in Korean."
+  },
+  {
+    "condition_id": 260,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, what is the most effective way to come up with new ideas? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 261,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, please explain what kind of mindset is needed for creative problem solving. In your response, provide a detailed explanation and include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 262,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, could you provide a detailed explanation of the important factors in developing innovative solutions? Please include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 263,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What are the ways to think beyond existing conventions? Please provide a detailed explanation, incorporating specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 264,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, what are the ways to develop the ability to look at problems from various perspectives? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 265,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, please provide a detailed explanation of the various ways to overcome factors that hinder creativity. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 266,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What are the ways to develop creative ideas through collaboration? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 267,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, could you provide a detailed explanation of the methods for systematically analyzing complex problems? Please include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 268,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please explain the thought processes necessary to reach logical conclusions. In your response, provide a detailed explanation and include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 269,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, could you elaborate on the methods for presenting valid arguments based on evidence and logic? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 270,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please explore the question: What are the ways to make correct judgments by synthesizing various information? In your response, provide a detailed explanation that includes specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 271,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please provide a detailed explanation of the ways to avoid logical errors and engage in rational thinking. Include specific and clear examples to illustrate your points effectively. Please respond in Korean."
+  },
+  {
+    "condition_id": 272,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, could you provide a detailed explanation of the systematic methods for setting up and verifying hypotheses? Please include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 273,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, please provide a detailed explanation of the methods for evaluating the reliability of information through critical thinking. Include specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 274,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please explore the various reasons for helping a friend in difficulty. Consider the moral obligations we have towards our friends, the impact of empathy and compassion in our relationships, and the potential consequences of our actions. What ethical frameworks can guide our decisions in these situations? Please respond in Korean."
+  },
+  {
+    "condition_id": 275,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, please explore the question: What should individuals do to create a just society? Consider the various ethical frameworks and moral principles that can guide individual actions and societal change. Please respond in Korean."
+  },
+  {
+    "condition_id": 276,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, I invite you to explore the criteria for making the right choice in ethical dilemma situations. What principles or frameworks do you believe are essential in guiding individuals to navigate these complex moral landscapes effectively? Please respond in Korean."
+  },
+  {
+    "condition_id": 277,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, I invite you to explore the question: What are the ways to achieve reconciliation in conflict situations with others? Please consider various ethical frameworks and moral principles that can guide individuals and groups toward understanding, forgiveness, and resolution. Please respond in Korean."
+  },
+  {
+    "condition_id": 278,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, I invite you to explore the importance of acknowledging and taking responsibility for one's mistakes. In your response, consider how this practice impacts personal growth, relationships, and societal norms. Please respond in Korean."
+  },
+  {
+    "condition_id": 279,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, I invite you to explore the question: Why are consideration and empathy for others important? In your response, please discuss the ethical implications of these qualities in personal relationships and society at large, and how they contribute to a more compassionate and just world. Please respond in Korean."
+  },
+  {
+    "condition_id": 280,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in ethics and moral philosophy, I would like you to explore the various situations where moral courage should be exercised. Please discuss specific scenarios that illustrate the need for moral courage and provide insights on how individuals can effectively demonstrate this virtue in those situations. Please respond in Korean."
+  },
+  {
+    "condition_id": 281,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What is the most effective way to come up with new ideas? Please respond in Korean."
+  },
+  {
+    "condition_id": 282,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What kind of mindset is needed for creative problem solving? Please respond in Korean."
+  },
+  {
+    "condition_id": 283,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, could you elaborate on what you believe are the important factors in developing innovative solutions? Please respond in Korean."
+  },
+  {
+    "condition_id": 284,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I invite you to explore the question: What are the ways to think beyond existing conventions? Please respond in Korean."
+  },
+  {
+    "condition_id": 285,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, what are the ways to develop the ability to look at problems from various perspectives? Please respond in Korean."
+  },
+  {
+    "condition_id": 286,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What are the ways to overcome factors that hinder creativity? Please respond in Korean."
+  },
+  {
+    "condition_id": 287,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As an expert in creativity and innovation research, I would like you to explore the question: What are the ways to develop creative ideas through collaboration? Please respond in Korean."
+  },
+  {
+    "condition_id": 288,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, I invite you to explore the question: What are the methods for systematically analyzing complex problems? Please respond in Korean."
+  },
+  {
+    "condition_id": 289,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, I invite you to explore the intricate thought processes that are necessary to reach logical conclusions. What cognitive strategies and frameworks do you believe are essential for analyzing information critically and deriving sound judgments? Please respond in Korean."
+  },
+  {
+    "condition_id": 290,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, what are the methods for presenting valid arguments based on evidence and logic? Please respond in Korean."
+  },
+  {
+    "condition_id": 291,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, I would like you to explore the question: What are the ways to make correct judgments by synthesizing various information? Please respond in Korean."
+  },
+  {
+    "condition_id": 292,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, could you elaborate on the various ways to avoid logical errors and engage in rational thinking? Please respond in Korean."
+  },
+  {
+    "condition_id": 293,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, could you elaborate on the systematic methods for setting up and verifying hypotheses? Please respond in Korean."
+  },
+  {
+    "condition_id": 294,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "with_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "As a scholar specializing in logic and critical thinking, I invite you to explore the various methods for evaluating the reliability of information. What strategies and frameworks can be employed to assess the credibility of sources and the validity of arguments? Please respond in Korean."
+  },
+  {
+    "condition_id": 295,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the reasons for helping a friend in difficulty? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 296,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What should individuals do to create a just society? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 297,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the criteria for making the right choice in ethical dilemma situations? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 298,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to achieve reconciliation in conflict situations with others? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 299,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What is the importance of acknowledging and taking responsibility for one's mistakes? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 300,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "Why are consideration and empathy for others important? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 301,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the situations where moral courage should be exercised, and how can individuals effectively demonstrate it? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 302,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What is the most effective way to come up with new ideas? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 303,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What kind of mindset is needed for creative problem solving? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 304,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the important factors in developing innovative solutions? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 305,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to think beyond existing conventions? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 306,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to develop the ability to look at problems from various perspectives? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 307,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to overcome factors that hinder creativity? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 308,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to develop creative ideas through collaboration? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 309,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the methods for systematically analyzing complex problems? Please provide a detailed explanation with specific and clear examples to illustrate each method. Please respond in Korean."
+  },
+  {
+    "condition_id": 310,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What thought processes are necessary to reach logical conclusions? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 311,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the methods for presenting valid arguments based on evidence and logic? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 312,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to make correct judgments by synthesizing various information? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 313,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the ways to avoid logical errors and engage in rational thinking? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 314,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the systematic methods for setting up and verifying hypotheses? Please provide a detailed explanation with specific and clear examples to illustrate each method. Please respond in Korean."
+  },
+  {
+    "condition_id": 315,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "high"
+    },
+    "generated_prompt": "What are the methods for evaluating the reliability of information through critical thinking? Please provide a detailed explanation with specific and clear examples to illustrate your points. Please respond in Korean."
+  },
+  {
+    "condition_id": 316,
+    "category": "인성",
+    "base_question": "어려움에 처한 친구를 도와야 하는 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the reasons for helping a friend in difficulty? Please respond in Korean."
+  },
+  {
+    "condition_id": 317,
+    "category": "인성",
+    "base_question": "정의로운 사회를 만들기 위해 개인이 해야 할 일은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What should individuals do to create a just society? Please respond in Korean."
+  },
+  {
+    "condition_id": 318,
+    "category": "인성",
+    "base_question": "윤리적 딜레마 상황에서 올바른 선택을 하는 기준은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the criteria for making the right choice in ethical dilemma situations? Please respond in Korean."
+  },
+  {
+    "condition_id": 319,
+    "category": "인성",
+    "base_question": "타인과의 갈등 상황에서 화해를 이루는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to achieve reconciliation in conflict situations with others? Please respond in Korean."
+  },
+  {
+    "condition_id": 320,
+    "category": "인성",
+    "base_question": "자신의 실수를 인정하고 책임지는 것의 중요성은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What is the importance of acknowledging and taking responsibility for one's mistakes? Please respond in Korean."
+  },
+  {
+    "condition_id": 321,
+    "category": "인성",
+    "base_question": "타인에 대한 배려와 공감이 중요한 이유는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "Why are consideration and empathy for others important in fostering healthy relationships and building a supportive community? Please respond in Korean."
+  },
+  {
+    "condition_id": 322,
+    "category": "인성",
+    "base_question": "도덕적 용기를 발휘해야 하는 상황과 그 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the situations where moral courage should be exercised, and how can individuals effectively demonstrate it in those circumstances? Please respond in Korean."
+  },
+  {
+    "condition_id": 323,
+    "category": "창의성",
+    "base_question": "새로운 아이디어를 생각해내는 가장 효과적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What is the most effective way to come up with new ideas? Please respond in Korean."
+  },
+  {
+    "condition_id": 324,
+    "category": "창의성",
+    "base_question": "창의적 문제해결을 위해 어떤 사고방식이 필요한가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What kind of mindset is needed for creative problem solving? Please respond in Korean."
+  },
+  {
+    "condition_id": 325,
+    "category": "창의성",
+    "base_question": "혁신적인 솔루션을 개발하는 과정에서 중요한 요소는 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the important factors in developing innovative solutions? Please respond in Korean."
+  },
+  {
+    "condition_id": 326,
+    "category": "창의성",
+    "base_question": "기존의 관습을 뛰어넘는 발상을 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to think beyond existing conventions? Please respond in Korean."
+  },
+  {
+    "condition_id": 327,
+    "category": "창의성",
+    "base_question": "다양한 관점에서 문제를 바라보는 능력을 기르는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to develop the ability to look at problems from various perspectives? Please respond in Korean."
+  },
+  {
+    "condition_id": 328,
+    "category": "창의성",
+    "base_question": "창의성을 저해하는 요소들을 극복하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to overcome factors that hinder creativity? Please respond in Korean."
+  },
+  {
+    "condition_id": 329,
+    "category": "창의성",
+    "base_question": "협업을 통해 창의적 아이디어를 발전시키는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to develop creative ideas through collaboration? Please respond in Korean."
+  },
+  {
+    "condition_id": 330,
+    "category": "논리적추론",
+    "base_question": "복잡한 문제를 체계적으로 분석하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the methods for systematically analyzing complex problems? Please respond in Korean."
+  },
+  {
+    "condition_id": 331,
+    "category": "논리적추론",
+    "base_question": "논리적 결론에 도달하기 위해 필요한 사고 과정은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What thought processes are necessary to reach logical conclusions? Please respond in Korean."
+  },
+  {
+    "condition_id": 332,
+    "category": "논리적추론",
+    "base_question": "증거와 논리를 바탕으로 타당한 주장을 펼치는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the methods for presenting valid arguments based on evidence and logic? Please respond in Korean."
+  },
+  {
+    "condition_id": 333,
+    "category": "논리적추론",
+    "base_question": "다양한 정보를 종합하여 올바른 판단을 내리는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to make correct judgments by synthesizing various information? Please respond in Korean."
+  },
+  {
+    "condition_id": 334,
+    "category": "논리적추론",
+    "base_question": "논리적 오류를 피하고 합리적 사고를 하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the ways to avoid logical errors and engage in rational thinking? Please respond in Korean."
+  },
+  {
+    "condition_id": 335,
+    "category": "논리적추론",
+    "base_question": "가설을 설정하고 검증하는 체계적인 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the systematic methods for setting up and verifying hypotheses? Please respond in Korean."
+  },
+  {
+    "condition_id": 336,
+    "category": "논리적추론",
+    "base_question": "비판적 사고를 통해 정보의 신뢰성을 평가하는 방법은 무엇인가?",
+    "factor_combination": {
+      "prompt_language": "english",
+      "model": "gpt-4o-mini",
+      "role_assignment": "no_role",
+      "explicitness": "low"
+    },
+    "generated_prompt": "What are the methods for evaluating the reliability of information through critical thinking? Please respond in Korean."
+  }
+]
